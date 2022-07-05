@@ -1,0 +1,10 @@
+﻿Lieferant;;;;;
+lnr;Name;Kontonr;Bank;;
+1245;Handel OHG;19817651;Sparkasse;;"insert into lieferant(lnr, name, kontonr, blz) values (1245,'Handel OHG',19817651,'Sparkasse');"
+3497;Liefer AG;53425552;ING-DIBA;;"insert into lieferant(lnr, name, kontonr, blz) values (3497,'Liefer AG',53425552,'ING-DIBA');"
+2386;Handelskette eG;85435435;Commerzbank;;"insert into lieferant(lnr, name, kontonr, blz) values (2386,'Handelskette eG',85435435,'Commerzbank');"
+2389;Photo-Mann;35234535;Deutsche Bank;;"insert into lieferant(lnr, name, kontonr, blz) values (2389,'Photo-Mann',35234535,'Deutsche Bank');"
+3287;Apparate AG;34546567;Sparkasse;;"insert into lieferant(lnr, name, kontonr, blz) values (3287,'Apparate AG',34546567,'Sparkasse');"
+2137;Muster-Photo GmbH;65463453;Sparkasse;;"insert into lieferant(lnr, name, kontonr, blz) values (2137,'Muster-Photo GmbH',65463453,'Sparkasse');"
+;;;;;
+;;;;;
