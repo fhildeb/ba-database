@@ -1,4 +1,4 @@
-# ba-database
+# ba-sql-database
 
 HSMW BA Database Course
 
