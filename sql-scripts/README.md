@@ -66,3 +66,20 @@ Adjusting inventories, relations and suppliers.
 5. List all articles that have a `2` in the article number by extending intager comparison.
 6. List all articles that load the warehouse at least `20%` and at most `80%`.
 7. List orders between `10/31/2011` and `11/15/2011`.
+
+### 8.3 Scalar and Aggregation Functions
+
+1. Output today's date.
+2. List orderes in which items were ordered
+3. List days of the week were articles were ordered in German and English by `altering sessions`.
+4. Output suppliers that were ordered on a `Wednesday` and `Tuesday` separately.
+5. Categorize the stock related to its utilization, but without materializing it in the database. Use low `<20%`, medium `20%-70%`, and high `>70%` descriptions.
+6. Output at which position the character `e` appears for the first time in the item names.
+7. Output the first 5 chars of the supplier's name and designate the resulting attribute of the relation as `prefix`.
+8. Extract the manufacturers from the item names.
+9. Extract the type designation from the item designation.
+10. List how many suppliers there are in total, and how many of them have their bank account at the `Sparkasse`.
+11. List the maximum total price for an ordered item.
+12. List the amount of order items that have a total price `>200€`
+13. Form number circles with respect to the first digit of the article number. How many items appear in number range 2?
+14. Output the first three articles in alphabetical order.

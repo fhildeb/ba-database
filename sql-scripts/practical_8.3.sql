@@ -1,4 +1,4 @@
---Praktikum 8: Aufgabe 3)
+--Aufgabe 3)
 --a)
 select current_date from dual;
 
