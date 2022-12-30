@@ -60,3 +60,9 @@ Transforming the given ERM into an relational model with a minimal relation tree
 
 ![Diagram Screenshot Session 5.2 c](./img/practical_5.2_c.png)
 ![Diagram Screenshot Session 5.2 d](./img/practical_5.2_d.png)
+
+### 5.3 Maleware Attack
+
+ERM for handling and identifying malware attacks in a company.
+
+![Diagram Screenshot Session 5.3](./img/practical_5.3.png)
