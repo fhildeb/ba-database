@@ -17,3 +17,13 @@ All scripts share a database of a company with assortment and stock, in which ar
 - `create_script`: Create all tables in correct relation order
 - `fill_script`: Fill all tables with contents
 - `drop_script`: Remove all tables from the database
+
+## Practical Session 7
+
+### 7.1: Data Modellation
+
+Creating all tables and relations.
+
+### 7.2: Data Manipulation
+
+Adjusting inventories, relations and suppliers.

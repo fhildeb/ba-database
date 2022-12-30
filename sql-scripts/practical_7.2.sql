@@ -1,4 +1,4 @@
---Praktikum 7: Aufgabe 2)
+--Aufgabe 2)
 --a) Siehe Skript: fill_script
 
 --b)
