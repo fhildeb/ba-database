@@ -26,3 +26,11 @@ ERM for storing measured values after performing a series of tests for research 
 
 ![Diagram Screenshot Session 3.2 a](./img/practical_3.2_a.png)
 ![Diagram Screenshot Session 3.2 b](./img/practical_3.2_b.png)
+
+## Practical Session 4
+
+### 4.1 Web Server
+
+Entity type diagram to manage the access logs of various web servers.
+
+![Diagram Screenshot Session 4.1](./img/practical_4.1.png)
