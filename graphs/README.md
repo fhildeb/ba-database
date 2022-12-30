@@ -34,3 +34,10 @@ ERM for storing measured values after performing a series of tests for research 
 Entity type diagram to manage the access logs of various web servers.
 
 ![Diagram Screenshot Session 4.1](./img/practical_4.1.png)
+
+### 4.2 Biological Survey
+
+Entity type diagram to describe species data sets and classify them taxonomically.
+
+![Diagram Screenshot Session 4.2 a](./img/practical_4.2_a.png)
+![Diagram Screenshot Session 4.2 b](./img/practical_4.2_b.png)
