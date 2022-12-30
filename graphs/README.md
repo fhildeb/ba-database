@@ -41,3 +41,22 @@ Entity type diagram to describe species data sets and classify them taxonomicall
 
 ![Diagram Screenshot Session 4.2 a](./img/practical_4.2_a.png)
 ![Diagram Screenshot Session 4.2 b](./img/practical_4.2_b.png)
+
+## Practical Session 5
+
+### 5.2 Transformation
+
+Transforming the given ERM into an relational model with a minimal relation tree and keys for the referential integrity.
+
+#### Template
+
+![Diagram Screenshot Session 5.2 a](./img/practical_5.2_a.png)
+
+#### Structure
+
+![Diagram Screenshot Session 5.2 b](./img/practical_5.2_b.png)
+
+#### Outcome
+
+![Diagram Screenshot Session 5.2 c](./img/practical_5.2_c.png)
+![Diagram Screenshot Session 5.2 d](./img/practical_5.2_d.png)
