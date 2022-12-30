@@ -83,3 +83,16 @@ Adjusting inventories, relations and suppliers.
 12. List the amount of order items that have a total price `>200€`
 13. Form number circles with respect to the first digit of the article number. How many items appear in number range 2?
 14. Output the first three articles in alphabetical order.
+
+## Practical Session 9
+
+#### 9.1 Partitioning
+
+1. Output the number of items per order.
+2. Output the maximum, minimum and average number of items ordered.
+3. Output orders that have more than one order item.
+4. Output how much each ordercost by only using the relation order position.
+5. Calculate the total cost per order and sort them by cost in descending order.
+6. List orders that cost `>1000€`.
+7. Show the price for the most expensive order.
+8. List how many ordered items there are in different categories. `0-50€` cheap, `51-200€` average, `>200€` expensive.

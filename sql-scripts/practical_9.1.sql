@@ -1,4 +1,4 @@
---Praktikum 9: Aufgabe 1)
+--Aufgabe 1)
 --a)
 select bnr, count(*) from bestellposition
 group by bnr;
