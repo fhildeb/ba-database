@@ -1,4 +1,4 @@
---Praktikum 9: Aufgabe 3)
+--Aufgabe 3)
 --a)
 select lieferant.lnr, lieferant.name, count(lieferant.lnr)
 from lieferant

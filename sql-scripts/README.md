@@ -107,3 +107,8 @@ Adjusting inventories, relations and suppliers.
 6. Output from which supplier the item `Olympus VG-130` was ordered?
 7. Specify the bank details as well as the concrete amounts to be paid resulting from the orders since `15.11.2011` inclusively.
 8. Specify which articles need to be reordered urgently by ignoring the current orders.
+
+#### 9.3 Sub-Requests
+
+1. List which suppliers have more than 2 articles in their range.
+2. List which articles have not been ordered since `15.11.2011` inclusively.
