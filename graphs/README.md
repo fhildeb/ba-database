@@ -19,3 +19,10 @@ ERM for work projects with multi-level software components maintained by differe
 ![Diagram Screenshot Session 3.1 a](./img/practical_3.1_a.png)
 ![Diagram Screenshot Session 3.1 b](./img/practical_3.1_b.png)
 ![Diagram Screenshot Session 3.1 c](./img/practical_3.1_c.png)
+
+### 3.2 Research Studies
+
+ERM for storing measured values after performing a series of tests for research projects handled by universities that can cooperate.
+
+![Diagram Screenshot Session 3.2 a](./img/practical_3.2_a.png)
+![Diagram Screenshot Session 3.2 b](./img/practical_3.2_b.png)
