@@ -56,3 +56,13 @@ Adjusting inventories, relations and suppliers.
 
 9. Show the article description as `article_name`.
 10. Show the stocks of the articles with the result relation containing `article ID`, `all stock types`, and `date`.
+
+### 8.2 Quantity and Similarity Comparisons
+
+1. List suppliers with legal form `AG`.
+2. List articles that came from `Canon`.
+3. Output article designations for `2713`, `9779`, and `9878` by using logical operators and quantity comparison.
+4. Output articles by type `HS` or `HX`by using an alternative query option.
+5. List all articles that have a `2` in the article number by extending intager comparison.
+6. List all articles that load the warehouse at least `20%` and at most `80%`.
+7. List orders between `10/31/2011` and `11/15/2011`.
