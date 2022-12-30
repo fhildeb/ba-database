@@ -10,7 +10,7 @@ This course focused on skills and abilities in using, designing, building, and m
 entity and relationship models, extensions, SQL structures, and object-relational database management systems. The goal of developing database-supported applications using interactive
 database languages was to teach system managers about database backends, their creation, backups, and application administration.
 
-## Content
+## Course Content
 
 1. Introduction and basic terms
 
@@ -43,6 +43,12 @@ database languages was to teach system managers about database backends, their c
    - Different normal forms
    - Elimination of functional dependencies
    - Resolution of transitive dependencies
+
+## Practical Sessions
+
+- Graph Building: Session 2-5 found in `./graphs`
+- SQL Database Work: Session 7-9 found in `./sql-scripts`
+- Workshops: Sessions 1, 6, and 10 are excluded
 
 ## Tools
 
