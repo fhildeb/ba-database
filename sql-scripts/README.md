@@ -96,3 +96,14 @@ Adjusting inventories, relations and suppliers.
 6. List orders that cost `>1000€`.
 7. Show the price for the most expensive order.
 8. List how many ordered items there are in different categories. `0-50€` cheap, `51-200€` average, `>200€` expensive.
+
+#### 9.2 Compound Requests
+
+1. List which suppliers carry which articles in their product range.
+2. List Which articles were ordered before `15.11.2011`, and which after.
+3. Show the amount of orders for each article since `01.09.2011`.
+4. Show in what total quantity the articles have been ordered since `15.09.2011`.
+5. Output how often the articles were ordered and in what quantity.
+6. Output from which supplier the item `Olympus VG-130` was ordered?
+7. Specify the bank details as well as the concrete amounts to be paid resulting from the orders since `15.11.2011` inclusively.
+8. Specify which articles need to be reordered urgently by ignoring the current orders.

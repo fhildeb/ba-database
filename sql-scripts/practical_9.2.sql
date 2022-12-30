@@ -1,4 +1,4 @@
---Praktikum 9: Aufgabe 2)
+--Aufgabe 2)
 --a)
 select lieferant.lnr, lieferant.name, artikel.anr, artikel.bezeichnung
 from artikel
