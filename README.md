@@ -46,9 +46,10 @@ database languages was to teach system managers about database backends, their c
 
 ## Practical Sessions
 
-- Graph Building: Session 2-5 found in `./graphs`
-- SQL Database Work: Session 7-9 found in `./sql-scripts`
-- Workshops: Sessions 1, 6, and 10 are excluded
+- [`./graphs`](/graphs/): Graph Building Session 2-5
+- [`./sql-scripts`](/sql-scripts/): SQL Database Work Session 7-9
+
+> Sessions 1, 6, and 10 only featured theoretical work.
 
 ## Tools
 
