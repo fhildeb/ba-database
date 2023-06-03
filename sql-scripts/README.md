@@ -1,7 +1,3 @@
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
-
 # SQL Scripts
 
 SQL Scripts to create and manage database tables.
@@ -20,11 +16,11 @@ All scripts share a database of a company with assortment and stock, in which ar
 
 ## Practical Session 7
 
-### 7.1: Data Modellation
+### 7.1 Data Modellation
 
 Creating all tables and relations.
 
-### 7.2: Data Manipulation
+### 7.2 Data Manipulation
 
 Adjusting inventories, relations and suppliers.
 
